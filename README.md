@@ -9,7 +9,7 @@ Estructura:
 - Título
 - Menú con 3 opciones: Nosotros - Servicios - Contacto
 - Texto descriptivo de la empresa
-- Servicios a ofrecer: imagen + texto
+- 3 servicios: imagen + texto
 - Redes sociales
 
 1° entrega: versión con html y css puro, armando la estructura y agregando los estilos necesarios.
