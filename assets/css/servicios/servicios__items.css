@@ -1,7 +1,14 @@
 .servicios__items {
-    list-style: none;
+    border: 2px solid #444343;
+    border-radius: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-right: 1rem;
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    padding: 20px 20px;
+    text-align: center;
+    vertical-align: top;
+    width: 30%;
 }
 
-.servicios__items__imagen {
-    width: 20%;
-}

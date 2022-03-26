@@ -1,0 +1,13 @@
+.servicios__titulo {
+    color: #444343;
+    font-size: 3rem;
+    font-weight: 100;
+    left: 50%;
+    margin-top: 2rem;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0 4px 4px rgba (0, 0, 0, 0.75);
+    top: 32rem;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}

@@ -1,3 +1,6 @@
-.menu__list {
-    display: flex;
+.servicios__list {
+    align-items: center;
+    margin-left: 12rem;
+    padding: 2rem;
+    width: 940px;
 }

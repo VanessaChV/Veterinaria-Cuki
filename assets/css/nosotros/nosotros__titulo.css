@@ -1,0 +1,12 @@
+.nosotros__titulo {
+    font-size: 5.0625rem;
+    font-weight: 100;
+    left: 50%;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0 4px 4px rgba (0, 0, 0, 0.75);
+    top: 20%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}

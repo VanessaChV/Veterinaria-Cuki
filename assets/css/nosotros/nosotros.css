@@ -1,12 +1,7 @@
-.nosotros__titulo {
+.nosotros {
     text-align: center;
-    padding: 1em;
-    margin: 0;
+    padding: 2.5em;
     color: #363535;
 }
 
-.nosotros__descripcion {
-    text-align: center;
-    color: #363535;
-    margin: 0;
-}
+
